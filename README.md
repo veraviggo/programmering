@@ -1,2 +1,2 @@
 # programmering
-Her er koden fra programmeringsundervisningen i efteråret 2021
+Her er koden fra programmeringsundervisningen i første semester, efteråret 2021
